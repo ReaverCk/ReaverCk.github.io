@@ -15,11 +15,7 @@ border-right: 3px solid #e3e3e3;
 padding: 30px 80px;
 }
 
-h1{
-text-align: center;
-}
-
-header + p, header + p + p {
+header{
 text-align: center;
 }
 
@@ -29,7 +25,7 @@ text-align-last: center;
 }
 
 .underline {
-text-decoration: underline
+text-decoration: underline;
 }
 
 .bold {
